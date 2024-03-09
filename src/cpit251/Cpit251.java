@@ -18,6 +18,9 @@ public class Cpit251 {
         System.out.println("Hello marwah to Github World :) ");
         
         System.out.println("Hello wed to Github World :) ");
+        
+         System.out.println("Hello Amjad to Github World :) ");
+        
     }
     
 }
